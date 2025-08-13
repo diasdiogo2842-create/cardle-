@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<title>Clashle — CR Cardle</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="topbar">
+    <button id="infoBtn" class="icon">i</button>
+    <h1>Clashle</h1>
+    <div class="right">
+      <button id="statsBtn" class="icon">📊</button>
+      <button id="settingsBtn" class="icon">⚙️</button>
+    </div>
+  </header>
+
+  <main id="app">
+    <div class="board-wrap">
+      <div id="board" class="board"></div>
+    </div>
+
+    <div id="keyboard" class="keyboard"></div>
+  </main>
+
+  <div class="bottombar">
+    <input id="hiddenInput" autocomplete="off" autocapitalize="characters" spellcheck="false" />
+    <div class="url">objectivitix.github.io</div>
+  </div>
+
+  <dialog id="infoDialog">
+    <h3>How to play</h3>
+    <p>Guess the Clash Royale card. Grid width = today's card name length (spaces removed). Type to fill tiles, Enter to submit, Backspace to delete. 6 guesses.</p>
+    <button id="closeInfo">Close</button>
+  </dialog>
+
+<script src="script.js" defer></script>
+</body>
+</html>

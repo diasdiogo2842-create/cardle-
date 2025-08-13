@@ -1,0 +1,434 @@
+[
+  {
+    "name": "Knight",
+    "elixir": 3,
+    "rarity": "Common",
+    "type": "Troop",
+    "arena": 1,
+    "champion": false
+  },
+  {
+    "name": "Archers",
+    "elixir": 3,
+    "rarity": "Common",
+    "type": "Troop",
+    "arena": 1,
+    "champion": false
+  },
+  {
+    "name": "Arrows",
+    "elixir": 3,
+    "rarity": "Common",
+    "type": "Spell",
+    "arena": 1,
+    "champion": false
+  },
+  {
+    "name": "Goblins",
+    "elixir": 2,
+    "rarity": "Common",
+    "type": "Troop",
+    "arena": 1,
+    "champion": false
+  },
+  {
+    "name": "Fireball",
+    "elixir": 4,
+    "rarity": "Rare",
+    "type": "Spell",
+    "arena": 1,
+    "champion": false
+  },
+  {
+    "name": "Mini P.E.K.K.A",
+    "elixir": 4,
+    "rarity": "Rare",
+    "type": "Troop",
+    "arena": 1,
+    "champion": false
+  },
+  {
+    "name": "Musketeer",
+    "elixir": 4,
+    "rarity": "Rare",
+    "type": "Troop",
+    "arena": 1,
+    "champion": false
+  },
+  {
+    "name": "Giant",
+    "elixir": 5,
+    "rarity": "Rare",
+    "type": "Troop",
+    "arena": 1,
+    "champion": false
+  },
+  {
+    "name": "Prince",
+    "elixir": 5,
+    "rarity": "Epic",
+    "type": "Troop",
+    "arena": 7,
+    "champion": false
+  },
+  {
+    "name": "Baby Dragon",
+    "elixir": 4,
+    "rarity": "Epic",
+    "type": "Troop",
+    "arena": 2,
+    "champion": false
+  },
+  {
+    "name": "Skeleton Army",
+    "elixir": 3,
+    "rarity": "Epic",
+    "type": "Troop",
+    "arena": 2,
+    "champion": false
+  },
+  {
+    "name": "Witch",
+    "elixir": 5,
+    "rarity": "Epic",
+    "type": "Troop",
+    "arena": 2,
+    "champion": false
+  },
+  {
+    "name": "Goblin Barrel",
+    "elixir": 3,
+    "rarity": "Epic",
+    "type": "Spell",
+    "arena": 1,
+    "champion": false
+  },
+  {
+    "name": "Hog Rider",
+    "elixir": 4,
+    "rarity": "Rare",
+    "type": "Troop",
+    "arena": 4,
+    "champion": false
+  },
+  {
+    "name": "Valkyrie",
+    "elixir": 4,
+    "rarity": "Rare",
+    "type": "Troop",
+    "arena": 1,
+    "champion": false
+  },
+  {
+    "name": "Bomb Tower",
+    "elixir": 4,
+    "rarity": "Rare",
+    "type": "Building",
+    "arena": 2,
+    "champion": false
+  },
+  {
+    "name": "Cannon",
+    "elixir": 3,
+    "rarity": "Common",
+    "type": "Building",
+    "arena": 3,
+    "champion": false
+  },
+  {
+    "name": "Tesla",
+    "elixir": 4,
+    "rarity": "Common",
+    "type": "Building",
+    "arena": 4,
+    "champion": false
+  },
+  {
+    "name": "Inferno Tower",
+    "elixir": 5,
+    "rarity": "Rare",
+    "type": "Building",
+    "arena": 4,
+    "champion": false
+  },
+  {
+    "name": "Zap",
+    "elixir": 2,
+    "rarity": "Common",
+    "type": "Spell",
+    "arena": 5,
+    "champion": false
+  },
+  {
+    "name": "Log",
+    "elixir": 2,
+    "rarity": "Legendary",
+    "type": "Spell",
+    "arena": 6,
+    "champion": false
+  },
+  {
+    "name": "Ice Spirit",
+    "elixir": 1,
+    "rarity": "Common",
+    "type": "Troop",
+    "arena": 5,
+    "champion": false
+  },
+  {
+    "name": "Ice Golem",
+    "elixir": 2,
+    "rarity": "Rare",
+    "type": "Troop",
+    "arena": 8,
+    "champion": false
+  },
+  {
+    "name": "Mega Minion",
+    "elixir": 3,
+    "rarity": "Rare",
+    "type": "Troop",
+    "arena": 7,
+    "champion": false
+  },
+  {
+    "name": "Minions",
+    "elixir": 3,
+    "rarity": "Common",
+    "type": "Troop",
+    "arena": 2,
+    "champion": false
+  },
+  {
+    "name": "Minion Horde",
+    "elixir": 5,
+    "rarity": "Common",
+    "type": "Troop",
+    "arena": 4,
+    "champion": false
+  },
+  {
+    "name": "Skeletons",
+    "elixir": 1,
+    "rarity": "Common",
+    "type": "Troop",
+    "arena": 2,
+    "champion": false
+  },
+  {
+    "name": "Royal Giant",
+    "elixir": 6,
+    "rarity": "Common",
+    "type": "Troop",
+    "arena": 7,
+    "champion": false
+  },
+  {
+    "name": "Royal Hogs",
+    "elixir": 5,
+    "rarity": "Rare",
+    "type": "Troop",
+    "arena": 7,
+    "champion": false
+  },
+  {
+    "name": "Three Musketeers",
+    "elixir": 9,
+    "rarity": "Rare",
+    "type": "Troop",
+    "arena": 7,
+    "champion": false
+  },
+  {
+    "name": "Bowler",
+    "elixir": 5,
+    "rarity": "Epic",
+    "type": "Troop",
+    "arena": 8,
+    "champion": false
+  },
+  {
+    "name": "P.E.K.K.A",
+    "elixir": 7,
+    "rarity": "Epic",
+    "type": "Troop",
+    "arena": 4,
+    "champion": false
+  },
+  {
+    "name": "X-Bow",
+    "elixir": 6,
+    "rarity": "Epic",
+    "type": "Building",
+    "arena": 3,
+    "champion": false
+  },
+  {
+    "name": "Mortar",
+    "elixir": 4,
+    "rarity": "Common",
+    "type": "Building",
+    "arena": 6,
+    "champion": false
+  },
+  {
+    "name": "Barbarians",
+    "elixir": 5,
+    "rarity": "Common",
+    "type": "Troop",
+    "arena": 3,
+    "champion": false
+  },
+  {
+    "name": "Rage",
+    "elixir": 2,
+    "rarity": "Epic",
+    "type": "Spell",
+    "arena": 3,
+    "champion": false
+  },
+  {
+    "name": "Freeze",
+    "elixir": 4,
+    "rarity": "Epic",
+    "type": "Spell",
+    "arena": 8,
+    "champion": false
+  },
+  {
+    "name": "Lightning",
+    "elixir": 6,
+    "rarity": "Epic",
+    "type": "Spell",
+    "arena": 8,
+    "champion": false
+  },
+  {
+    "name": "Rocket",
+    "elixir": 6,
+    "rarity": "Rare",
+    "type": "Spell",
+    "arena": 6,
+    "champion": false
+  },
+  {
+    "name": "Poison",
+    "elixir": 4,
+    "rarity": "Epic",
+    "type": "Spell",
+    "arena": 5,
+    "champion": false
+  },
+  {
+    "name": "Tornado",
+    "elixir": 3,
+    "rarity": "Epic",
+    "type": "Spell",
+    "arena": 6,
+    "champion": false
+  },
+  {
+    "name": "Graveyard",
+    "elixir": 5,
+    "rarity": "Legendary",
+    "type": "Spell",
+    "arena": 12,
+    "champion": false
+  },
+  {
+    "name": "Lava Hound",
+    "elixir": 7,
+    "rarity": "Legendary",
+    "type": "Troop",
+    "arena": 10,
+    "champion": false
+  },
+  {
+    "name": "Golem",
+    "elixir": 8,
+    "rarity": "Epic",
+    "type": "Troop",
+    "arena": 6,
+    "champion": false
+  },
+  {
+    "name": "Ice Wizard",
+    "elixir": 3,
+    "rarity": "Legendary",
+    "type": "Troop",
+    "arena": 8,
+    "champion": false
+  },
+  {
+    "name": "Princess",
+    "elixir": 3,
+    "rarity": "Legendary",
+    "type": "Troop",
+    "arena": 7,
+    "champion": false
+  },
+  {
+    "name": "Miner",
+    "elixir": 3,
+    "rarity": "Legendary",
+    "type": "Troop",
+    "arena": 9,
+    "champion": false
+  },
+  {
+    "name": "Bandit",
+    "elixir": 3,
+    "rarity": "Legendary",
+    "type": "Troop",
+    "arena": 9,
+    "champion": false
+  },
+  {
+    "name": "Electro Wizard",
+    "elixir": 4,
+    "rarity": "Legendary",
+    "type": "Troop",
+    "arena": 11,
+    "champion": false
+  },
+  {
+    "name": "Sparky",
+    "elixir": 6,
+    "rarity": "Legendary",
+    "type": "Troop",
+    "arena": 11,
+    "champion": false
+  },
+  {
+    "name": "Night Witch",
+    "elixir": 4,
+    "rarity": "Legendary",
+    "type": "Troop",
+    "arena": 12,
+    "champion": false
+  },
+  {
+    "name": "Battle Ram",
+    "elixir": 4,
+    "rarity": "Rare",
+    "type": "Troop",
+    "arena": 9,
+    "champion": false
+  },
+  {
+    "name": "Dart Goblin",
+    "elixir": 3,
+    "rarity": "Rare",
+    "type": "Troop",
+    "arena": 9,
+    "champion": false
+  },
+  {
+    "name": "Electro Dragon",
+    "elixir": 5,
+    "rarity": "Epic",
+    "type": "Troop",
+    "arena": 11,
+    "champion": false
+  }
+]
